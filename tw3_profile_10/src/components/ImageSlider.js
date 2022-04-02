@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 import img_landing_1 from '../media/landing-1.jpg';
 import img_landing_2 from '../media/landing-2.jpg';
 import img_landing_3 from '../media/landing-3.jpg';
-import {gsap} from 'gsap';
+import gsap from 'gsap';
 
 
 const data = [

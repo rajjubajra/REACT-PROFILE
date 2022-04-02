@@ -1,5 +1,5 @@
 import {useEffect} from 'react';
-import {gsap} from 'gsap';
+import gsap from 'gsap';
 import Nav from './Nav';
 import Logo from './Logo';
 
@@ -10,7 +10,6 @@ function Header() {
 useEffect(()=>{
   gsap.from('.header', {duration: 2, y: "-100%", ease: 'power1'})
 },[])
-
 
 
   return (

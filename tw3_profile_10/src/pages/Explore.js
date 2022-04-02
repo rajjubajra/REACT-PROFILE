@@ -5,7 +5,7 @@ import img_landing_1 from '../media/landing-1.jpg';
 import img_landing_2 from '../media/landing-2.jpg';
 import img_landing_3 from '../media/landing-3.jpg';
 import img_landing_4 from '../media/landing-4.jpg';
-import {gsap} from 'gsap';
+import gsap from 'gsap';
 
 
 
@@ -31,7 +31,7 @@ const data = [
   {
     "id": 4,
     "url": img_landing_4,
-    "alt": "landing-3",
+    "alt": "landing-4",
     "text": "Consectetur lor sit lorem ipsum adip "
   }
 ]
@@ -42,8 +42,7 @@ function Explore() {
 
   const [images, setImages] = useState([]);
   useEffect(()=>{
-      let isMounted = true;
-      isMounted && setImages(data);
+    setImages(data);
   },[])
   
 
@@ -63,9 +62,9 @@ function Explore() {
             images.map((item, index )=> {
               return index % 2 === 0                 
               ? <li key={index} className="fadeout">
-                <ExploreBoxOne image={item.url} alt={item.alt}  text={item.text} /></li>
+                <ExploreBoxOne  image={item.url} alt={item.alt}  text={item.text} /></li>
               : <li key={index} className="fadeout">
-                <ExploreBoxTwo image={item.url} alt={item.alt} text={item.text} /></li>
+                <ExploreBoxTwo  image={item.url} alt={item.alt} text={item.text} /></li>
             } ) 
           }
         </ul>  

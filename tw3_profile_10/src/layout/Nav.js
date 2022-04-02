@@ -1,8 +1,5 @@
 import {useState, useEffect} from 'react';
-//import {useDispatch, useSelector} from 'react-redux';
-//import {navigationData} from '../redux/navigationSlice';
 import {Link} from 'react-router-dom';
-//import axios from 'axios';
 import {gsap} from 'gsap';
 
 
@@ -27,24 +24,6 @@ const navdata = [
 
 function Nav() {
 
-  /** DATA FETCHING */
-  // const dispatch = useDispatch();
-  // const data = useSelector(state => state.navigation.value); 
-  //const baseurl = window.location.origin;
-
-  //console.log(data);
-//   useEffect(()=>{
-//     axios({
-//       method: 'GET',
-//       url: window.location.origin +'/data/nav.json',
-//       header: { 
-//         'content-type': 'application/json',
-//         'Accept': 'application/json'
-//       }
-//     })
-//     .then(res => {dispatch(navigationData(res.data))})
-//     .catch(err => console.error(err))
-// },[dispatch])
 
 const [data, setData] = useState([]);
 
