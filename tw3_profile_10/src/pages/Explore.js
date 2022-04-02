@@ -53,7 +53,7 @@ function Explore() {
 
 
   function isEven(numbers) {
-    if (numbers % 2 == 0) {
+    if (numbers % 2 === 0) {
         return true;
     }
     return false;
