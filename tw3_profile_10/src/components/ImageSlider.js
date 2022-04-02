@@ -1,6 +1,30 @@
 import React, {useEffect, useState} from 'react';
-import {useSelector} from 'react-redux'
+import img_landing_1 from '../media/landing-1.jpg';
+import img_landing_2 from '../media/landing-2.jpg';
+import img_landing_3 from '../media/landing-3.jpg';
 import {gsap} from 'gsap';
+
+
+const data = [
+  {
+    "id": 1,
+    "url": img_landing_1,
+    "alt": "landing-1",
+    "text": "Ipsum dolor sit amet, consectetur adip"
+  },
+  {
+    "id": 2,
+    "url": img_landing_2,
+    "alt": "landing-2",
+    "text": "Dolor sit lorem ipsum  consectetur adip"
+  },
+  {
+    "id": 3,
+    "url": img_landing_3,
+    "alt": "landing-3",
+    "text": "Consectetur lor sit lorem ipsum adip "
+  }
+]
 
 function ImageSlider() {
 
@@ -8,8 +32,15 @@ function ImageSlider() {
   const [show, setShow] = useState(0);
 
   /** fetch landing images */
-  const images = useSelector(state => state.fetchdata.value)
-console.log(images);
+  const [images, setImages] = useState([]);
+  console.log(images);
+
+  useEffect(()=>{
+    setImages(data);
+  },[])
+
+
+
 /** GSAP ANIMATION */
       setTimeout(()=>{
           setShow(show < images.length -1 ? show + 1 : 0)
@@ -19,12 +50,12 @@ console.log(images);
       useEffect(()=>{
         images.length > 0 &&  
         gsap.from('.slide',{duration: 2, opacity: 0})
-      },[show])
+      },[images.length, show])
 
       useEffect(()=>{
         images.length > 0 && 
         gsap.from('.view',{duration: 6, opacity:0, transform: "translate(0, -100%)"})
-      },[show])
+      },[images.length, show])
 
   return (
       <ul className="absolute top-0 w-full h-auto">

@@ -15,12 +15,12 @@ const {src, dest, watch, series} = require('gulp');
 
 
 function moveFiles(){
-  return src('./tw3_profile_09/build/**/*.*')
-  .pipe(dest('./tw3-profile-09'))
+  return src('./tw3_profile_10/build/**/*.*')
+  .pipe(dest('./tw3-profile-10'))
 }
 
 function watchTask(){
-  watch('./tw3_profile_09/build/**/*.*');
+  watch('./tw3_profile_10/build/**/*.*');
 }
 
 //default gulp

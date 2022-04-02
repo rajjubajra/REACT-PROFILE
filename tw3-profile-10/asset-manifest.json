@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/react-profile/tw3-profile-10/static/css/main.16160c84.css",
-    "main.js": "/react-profile/tw3-profile-10/static/js/main.2855eee9.js",
-    "index.html": "/react-profile/tw3-profile-10/index.html",
-    "main.16160c84.css.map": "/react-profile/tw3-profile-10/static/css/main.16160c84.css.map",
-    "main.2855eee9.js.map": "/react-profile/tw3-profile-10/static/js/main.2855eee9.js.map"
+    "main.css": "/static/css/main.83527f25.css",
+    "main.js": "/static/js/main.f61fc66b.js",
+    "static/media/landing-4.jpg": "/static/media/landing-4.d3d61824b85228e66cdb.jpg",
+    "static/media/landing-1.jpg": "/static/media/landing-1.cf91eea0b31305fe222d.jpg",
+    "static/media/landing-2.jpg": "/static/media/landing-2.9b243cc89ca5ee8ef3ff.jpg",
+    "static/media/landing-3.jpg": "/static/media/landing-3.7c5a7f8cb769496f4bee.jpg",
+    "index.html": "/index.html",
+    "main.83527f25.css.map": "/static/css/main.83527f25.css.map",
+    "main.f61fc66b.js.map": "/static/js/main.f61fc66b.js.map"
   },
   "entrypoints": [
-    "static/css/main.16160c84.css",
-    "static/js/main.2855eee9.js"
+    "static/css/main.83527f25.css",
+    "static/js/main.f61fc66b.js"
   ]
 }

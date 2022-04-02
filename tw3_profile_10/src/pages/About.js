@@ -12,7 +12,7 @@ const learning = "Learning to dance does not mean that your child ends up as a p
 function About() {
   
   useEffect(()=>{
-    gsap.from('.fadeout', {duration:2, opacity: '0', ease: 'power2.in', stagger: 1.0});
+    gsap.from('.fadeout', {duration:1, opacity: '0', ease: 'power2.in', stagger: 0.5});
   })
 
   return (
