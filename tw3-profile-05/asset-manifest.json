@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-profile/tw3-profile-05/static/css/main.a7b6d7e0.css",
+    "main.js": "/react-profile/tw3-profile-05/static/js/main.03f0d51f.js",
+    "static/media/buddha-eye.jpg": "/react-profile/tw3-profile-05/static/media/buddha-eye.f3ccc9c4fbb285635b05.jpg",
+    "static/media/door-handle.jpg": "/react-profile/tw3-profile-05/static/media/door-handle.b30fe4bb8090e9101f6b.jpg",
+    "static/media/statues.jpg": "/react-profile/tw3-profile-05/static/media/statues.03c9bd3bcfa554c64802.jpg",
+    "static/media/landscape.jpg": "/react-profile/tw3-profile-05/static/media/landscape.3ee2023989251e11c44f.jpg",
+    "static/media/stair-1.jpg": "/react-profile/tw3-profile-05/static/media/stair-1.c927821e8f6c2f79d15e.jpg",
+    "static/media/lantern.jpg": "/react-profile/tw3-profile-05/static/media/lantern.9622de28f599be251480.jpg",
+    "static/media/stair.jpg": "/react-profile/tw3-profile-05/static/media/stair.2de9876971554dae95c3.jpg",
+    "static/media/buddha.jpg": "/react-profile/tw3-profile-05/static/media/buddha.284e1b8d76cd3c6865b1.jpg",
+    "static/media/kimono.jpg": "/react-profile/tw3-profile-05/static/media/kimono.4814cd3d8d724375716f.jpg",
+    "static/media/tea.jpg": "/react-profile/tw3-profile-05/static/media/tea.4f354f5a95c33344d888.jpg",
+    "static/media/plant-42.jpg": "/react-profile/tw3-profile-05/static/media/plant-42.d1893e5b24c7beef5a8e.jpg",
+    "static/media/japanese-lan.jpg": "/react-profile/tw3-profile-05/static/media/japanese-lan.02b7f2aaf1a253eb525d.jpg",
+    "static/media/door.jpg": "/react-profile/tw3-profile-05/static/media/door.e211440061e482755b57.jpg",
+    "static/media/staircase.jpg": "/react-profile/tw3-profile-05/static/media/staircase.f254cf0a69472c1a1a82.jpg",
+    "static/media/room-gca.jpg": "/react-profile/tw3-profile-05/static/media/room-gca.ed4d058e4d21ec606455.jpg",
+    "static/media/flower.jpg": "/react-profile/tw3-profile-05/static/media/flower.b84716901991c3772487.jpg",
+    "static/media/teapot.jpg": "/react-profile/tw3-profile-05/static/media/teapot.96be69491febd6f77adb.jpg",
+    "static/media/wall.jpg": "/react-profile/tw3-profile-05/static/media/wall.be604f76435bf056027c.jpg",
+    "static/media/paper-flower.jpg": "/react-profile/tw3-profile-05/static/media/paper-flower.f7bacb439ba712ec973d.jpg",
+    "static/media/apartment-therapy-logo.webp": "/react-profile/tw3-profile-05/static/media/apartment-therapy-logo.eae8a7b4bb510c43e6df.webp",
+    "static/media/medium-logo.webp": "/react-profile/tw3-profile-05/static/media/medium-logo.83af446e77b368b83a4b.webp",
+    "static/media/domino-logo.webp": "/react-profile/tw3-profile-05/static/media/domino-logo.6275bc37a0faf486dea7.webp",
+    "static/media/forbes-logo.webp": "/react-profile/tw3-profile-05/static/media/forbes-logo.e58c321ba042ddd3fb6c.webp",
+    "index.html": "/react-profile/tw3-profile-05/index.html",
+    "main.a7b6d7e0.css.map": "/react-profile/tw3-profile-05/static/css/main.a7b6d7e0.css.map",
+    "main.03f0d51f.js.map": "/react-profile/tw3-profile-05/static/js/main.03f0d51f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7b6d7e0.css",
+    "static/js/main.03f0d51f.js"
+  ]
+}

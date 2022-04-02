@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-profile/tw3-profile-02/static/css/main.245c498a.css",
+    "main.js": "/react-profile/tw3-profile-02/static/js/main.7855413b.js",
+    "static/js/787.2138aa3d.chunk.js": "/react-profile/tw3-profile-02/static/js/787.2138aa3d.chunk.js",
+    "static/media/record-player.jpg": "/react-profile/tw3-profile-02/static/media/record-player.66fd717b8e2e24828be4.jpg",
+    "static/media/piano.jpg": "/react-profile/tw3-profile-02/static/media/piano.50cf89f4432b09d7a943.jpg",
+    "static/media/microphone.jpg": "/react-profile/tw3-profile-02/static/media/microphone.5bec6b721834997cdaa0.jpg",
+    "static/media/guitar.jpg": "/react-profile/tw3-profile-02/static/media/guitar.094917d00d67732661e9.jpg",
+    "static/media/music-lp.jpg": "/react-profile/tw3-profile-02/static/media/music-lp.b2f1dae2dc2dbf82e8ac.jpg",
+    "index.html": "/react-profile/tw3-profile-02/index.html",
+    "main.245c498a.css.map": "/react-profile/tw3-profile-02/static/css/main.245c498a.css.map",
+    "main.7855413b.js.map": "/react-profile/tw3-profile-02/static/js/main.7855413b.js.map",
+    "787.2138aa3d.chunk.js.map": "/react-profile/tw3-profile-02/static/js/787.2138aa3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.245c498a.css",
+    "static/js/main.7855413b.js"
+  ]
+}

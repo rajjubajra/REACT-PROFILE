@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-profile/tw3-profile-06/static/css/main.da7713e9.css",
+    "main.js": "/react-profile/tw3-profile-06/static/js/main.82d1bc3a.js",
+    "static/media/living-room.jpg": "/react-profile/tw3-profile-06/static/media/living-room.4a1e1231e6dd27e0cb7a.jpg",
+    "static/media/bed.jpg": "/react-profile/tw3-profile-06/static/media/bed.e34be86d4392f35b17d4.jpg",
+    "static/media/chair-5.jpg": "/react-profile/tw3-profile-06/static/media/chair-5.abaebf0a8a423cbb47d0.jpg",
+    "static/media/chair-3.jpg": "/react-profile/tw3-profile-06/static/media/chair-3.8925e11dc0042f245fdd.jpg",
+    "static/media/chairs.jpg": "/react-profile/tw3-profile-06/static/media/chairs.711606fddfa04302fcb3.jpg",
+    "static/media/chair-4.jpg": "/react-profile/tw3-profile-06/static/media/chair-4.bce83eb6bc73b7f7faa3.jpg",
+    "static/media/furniture-1.jpg": "/react-profile/tw3-profile-06/static/media/furniture-1.cb691de965ea41d06bf7.jpg",
+    "static/media/chairs-2.jpg": "/react-profile/tw3-profile-06/static/media/chairs-2.e7d3d3576f0a697ce934.jpg",
+    "static/media/woman.jpg": "/react-profile/tw3-profile-06/static/media/woman.df13d80da39e5f0fd9d4.jpg",
+    "static/media/paper-flower.jpg": "/react-profile/tw3-profile-06/static/media/paper-flower.f7bacb439ba712ec973d.jpg",
+    "index.html": "/react-profile/tw3-profile-06/index.html",
+    "main.da7713e9.css.map": "/react-profile/tw3-profile-06/static/css/main.da7713e9.css.map",
+    "main.82d1bc3a.js.map": "/react-profile/tw3-profile-06/static/js/main.82d1bc3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da7713e9.css",
+    "static/js/main.82d1bc3a.js"
+  ]
+}

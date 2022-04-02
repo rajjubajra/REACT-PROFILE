@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "About",
+    "url": "/"
+  },
+  {
+    "id": 2,
+    "name": "Photography",
+    "url": "/photography"
+  },
+  {
+    "id": 3,
+    "name": "Press",
+    "url": "/press"
+  },
+  {
+    "id": 4,
+    "name": "Contact",
+    "url": "/contact"
+  }
+]

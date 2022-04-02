@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-profile/tw3-profile-08/static/css/main.7e454864.css",
+    "main.js": "/react-profile/tw3-profile-08/static/js/main.428bba50.js",
+    "static/media/spaghetti-1.jpg": "/react-profile/tw3-profile-08/static/media/spaghetti-1.6732e7383d085b16927b.jpg",
+    "static/media/landing-1.jpg": "/react-profile/tw3-profile-08/static/media/landing-1.b4547244a2ba0988c8d7.jpg",
+    "static/media/pasta-4.jpg": "/react-profile/tw3-profile-08/static/media/pasta-4.711d9b9575a427e20a6c.jpg",
+    "static/media/pasta-2.jpg": "/react-profile/tw3-profile-08/static/media/pasta-2.1668c43200db49ef4736.jpg",
+    "static/media/landing-2.jpg": "/react-profile/tw3-profile-08/static/media/landing-2.43f178d11722612386d2.jpg",
+    "static/media/pasta-1.jpg": "/react-profile/tw3-profile-08/static/media/pasta-1.cacfba742b27c875243f.jpg",
+    "static/media/pasta-5.jpg": "/react-profile/tw3-profile-08/static/media/pasta-5.21e91cbad2f6433395af.jpg",
+    "static/media/pasta-3.jpg": "/react-profile/tw3-profile-08/static/media/pasta-3.0e460be948288905451b.jpg",
+    "static/media/chef.jpg": "/react-profile/tw3-profile-08/static/media/chef.336de1419070c3151f63.jpg",
+    "static/media/landing-3.jpg": "/react-profile/tw3-profile-08/static/media/landing-3.d81c69946cabd9470df6.jpg",
+    "static/media/landing-4.jpg": "/react-profile/tw3-profile-08/static/media/landing-4.58335ab75c03e04a8417.jpg",
+    "static/media/team.jpg": "/react-profile/tw3-profile-08/static/media/team.86f6610bddf09ffa2c84.jpg",
+    "static/media/blog-4.jpg": "/react-profile/tw3-profile-08/static/media/blog-4.801dd2f70a662956f947.jpg",
+    "static/media/blog-2.jpg": "/react-profile/tw3-profile-08/static/media/blog-2.e23259e29c6e25ccddf6.jpg",
+    "static/media/blog-1.jpg": "/react-profile/tw3-profile-08/static/media/blog-1.221efc98e2fec268f3c3.jpg",
+    "static/media/press-1.jpg": "/react-profile/tw3-profile-08/static/media/press-1.2d5ab59d8355d018889a.jpg",
+    "static/media/woman.jpg": "/react-profile/tw3-profile-08/static/media/woman.fa50efd65560eacaf819.jpg",
+    "static/media/blog-6.jpg": "/react-profile/tw3-profile-08/static/media/blog-6.b147449433059f04b5e1.jpg",
+    "static/media/press-3.jpg": "/react-profile/tw3-profile-08/static/media/press-3.bf4302deeea798fb82a7.jpg",
+    "static/media/blog-5.jpg": "/react-profile/tw3-profile-08/static/media/blog-5.96fdc353087763e4c85d.jpg",
+    "static/media/press-2.jpg": "/react-profile/tw3-profile-08/static/media/press-2.b3b13bda05de5f20893a.jpg",
+    "static/media/blog-3.jpg": "/react-profile/tw3-profile-08/static/media/blog-3.ccaf15671c7a68fe8d4f.jpg",
+    "index.html": "/react-profile/tw3-profile-08/index.html",
+    "main.7e454864.css.map": "/react-profile/tw3-profile-08/static/css/main.7e454864.css.map",
+    "main.428bba50.js.map": "/react-profile/tw3-profile-08/static/js/main.428bba50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e454864.css",
+    "static/js/main.428bba50.js"
+  ]
+}

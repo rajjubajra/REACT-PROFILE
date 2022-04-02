@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-profile/tw3-profile-10/static/css/main.16160c84.css",
+    "main.js": "/react-profile/tw3-profile-10/static/js/main.2855eee9.js",
+    "index.html": "/react-profile/tw3-profile-10/index.html",
+    "main.16160c84.css.map": "/react-profile/tw3-profile-10/static/css/main.16160c84.css.map",
+    "main.2855eee9.js.map": "/react-profile/tw3-profile-10/static/js/main.2855eee9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16160c84.css",
+    "static/js/main.2855eee9.js"
+  ]
+}

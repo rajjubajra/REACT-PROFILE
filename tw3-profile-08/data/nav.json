@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Home",
+    "url": "/"
+  },
+  {
+    "id": 2,
+    "name": "About",
+    "url": "/about"
+  },
+  {
+    "id": 3,
+    "name": "Services",
+    "url": "/services"
+  },
+  {
+    "id": 4,
+    "name": "Blog",
+    "url": "/blog"
+  },
+  {
+    "id": 5,
+    "name": "Gallery",
+    "url": "/gallery"
+  },
+  {
+    "id": 6,
+    "name": "Press",
+    "url": "/press"
+  },
+  {
+    "id": 7,
+    "name": "Contact",
+    "url": "/contact"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-profile/tw3-profile-04/static/css/main.d88bec43.css",
+    "main.js": "/react-profile/tw3-profile-04/static/js/main.416b39d6.js",
+    "static/media/bread-g.jpg": "/react-profile/tw3-profile-04/static/media/bread-g.726795419184fe15b326.jpg",
+    "static/media/bread.jpg": "/react-profile/tw3-profile-04/static/media/bread.146b21e1fa184aa2f10c.jpg",
+    "static/media/honey.jpg": "/react-profile/tw3-profile-04/static/media/honey.77ea06c37908143c6eb6.jpg",
+    "static/media/fig.jpg": "/react-profile/tw3-profile-04/static/media/fig.6416b754fdbee31e9eb8.jpg",
+    "static/media/egg-cartons.jpg": "/react-profile/tw3-profile-04/static/media/egg-cartons.286f1cee08b5bed874e7.jpg",
+    "static/media/newborn.jpg": "/react-profile/tw3-profile-04/static/media/newborn.f269f6928f8e81ac8025.jpg",
+    "static/media/cornflakes.jpg": "/react-profile/tw3-profile-04/static/media/cornflakes.32bc967584a453bc6cd6.jpg",
+    "static/media/lence.jpg": "/react-profile/tw3-profile-04/static/media/lence.ac5ed436beeaff127f20.jpg",
+    "static/media/woman.jpg": "/react-profile/tw3-profile-04/static/media/woman.ee83c368bf3cbe4b0567.jpg",
+    "static/media/woman-g.jpg": "/react-profile/tw3-profile-04/static/media/woman-g.6fc11b8af6cfab151d9c.jpg",
+    "index.html": "/react-profile/tw3-profile-04/index.html",
+    "main.d88bec43.css.map": "/react-profile/tw3-profile-04/static/css/main.d88bec43.css.map",
+    "main.416b39d6.js.map": "/react-profile/tw3-profile-04/static/js/main.416b39d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d88bec43.css",
+    "static/js/main.416b39d6.js"
+  ]
+}

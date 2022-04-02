@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "About",
+    "url": "/"
+  },
+  {
+    "id": 2,
+    "name": "Photography",
+    "url": "/photography"
+  },
+  {
+    "id": 3,
+    "name": "Design",
+    "url": "/design"
+  },
+  {
+    "id": 4,
+    "name": "Journal",
+    "url": "/journal"
+  },
+  {
+    "id": 5,
+    "name": "Contact",
+    "url": "/contact"
+  }
+]

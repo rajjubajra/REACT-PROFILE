@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-profile/tw3-profile-03/static/css/main.62500bb4.css",
+    "main.js": "/react-profile/tw3-profile-03/static/js/main.6542b794.js",
+    "static/media/bicycle-g.jpg": "/react-profile/tw3-profile-03/static/media/bicycle-g.b829aa46737b0273b956.jpg",
+    "static/media/feathers.jpg": "/react-profile/tw3-profile-03/static/media/feathers.117a3f5054ad146971ac.jpg",
+    "static/media/car.jpg": "/react-profile/tw3-profile-03/static/media/car.562fe804bfd85911b135.jpg",
+    "static/media/bird.jpg": "/react-profile/tw3-profile-03/static/media/bird.c46bfb2985eab4d3e9dc.jpg",
+    "static/media/cat.jpg": "/react-profile/tw3-profile-03/static/media/cat.46fed87df2210073087a.jpg",
+    "static/media/girl.jpg": "/react-profile/tw3-profile-03/static/media/girl.934ebf59f71b6395e337.jpg",
+    "static/media/dolphin.jpg": "/react-profile/tw3-profile-03/static/media/dolphin.e1a53c8a2e1c8dc5d2f5.jpg",
+    "index.html": "/react-profile/tw3-profile-03/index.html",
+    "main.62500bb4.css.map": "/react-profile/tw3-profile-03/static/css/main.62500bb4.css.map",
+    "main.6542b794.js.map": "/react-profile/tw3-profile-03/static/js/main.6542b794.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62500bb4.css",
+    "static/js/main.6542b794.js"
+  ]
+}

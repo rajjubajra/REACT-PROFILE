@@ -1,0 +1,5 @@
+/node_modules/
+
+
+# phpMyadmin port is different than the localhost
+/d9-profile/web/sites/default/settings.php
