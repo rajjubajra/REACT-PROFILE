@@ -1,4 +1,5 @@
 import React, {useEffect} from 'react';
+import {SocialIcon} from 'react-social-icons';
 import {gsap} from 'gsap';
 
 
@@ -12,7 +13,7 @@ function About() {
   
   useEffect(()=>{
     gsap.from('.fadeout', {duration:1, opacity: '0', ease: 'power2.in', stagger: 0.5});
-  },[])
+  })
 
   return (
     <div className="w-full bg-gray-50">
@@ -38,9 +39,9 @@ function About() {
         <div className="fadeout md:p-32 py-32 px-20 md:bg-white bg-gray-100">
           <h2 className="text-2xl font-thin tracking-wide py-5">Follow me:</h2>
           <div className="grid grid-flow-col-dense gap-2">
-            <ul><li>facebook</li>
-            <li>youtube</li>
-            <li>twitter</li></ul>
+            <SocialIcon  bgColor="black"  url="https://www.facebook.com/" />
+            <SocialIcon  bgColor="black"  url="https://www.youtube.com/" />
+            <SocialIcon bgColor="black"   url="https://instagram.com/" />
           </div>
         </div>
 

@@ -1,10 +1,14 @@
+import React from 'react';
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import Layout from './layout/Layout';
 import Home from './pages/Home';
 import About from './pages/About';
 import Explore from './pages/Explore';
 
+
+
 function App() {
+
   return (
     <BrowserRouter>
     <Layout>
@@ -16,6 +20,7 @@ function App() {
         </Routes>
     </Layout>
     </BrowserRouter>
+    
   );
 }
 

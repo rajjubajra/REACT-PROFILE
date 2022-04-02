@@ -7,9 +7,9 @@ import landingImagesReducer from './landingImagesSlice'; /** any name works fine
 
 export default configureStore({
   reducer: {
-    counter: counterReducer,
-    navigation: navigationReducer,
-    fetchdata: fetchdataReducer,
-    landingImages: landingImagesReducer /** name of the Slice: anyname */  
+    // counter: counterReducer,
+    // navigation: navigationReducer,
+    // fetchdata: fetchdataReducer,
+    // landingImages: landingImagesReducer /** name of the Slice: anyname */  
   },
 })
