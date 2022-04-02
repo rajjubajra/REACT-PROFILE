@@ -6,16 +6,9 @@ import Explore from './pages/Explore';
 
 function App() {
   return (
-    <BrowserRouter>
-    <Layout>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/home" element={<Home />} />
-          <Route path="/explore" element={<Explore />} />
-          <Route path="/about" element={<About />} />
-        </Routes>
-    </Layout>
-    </BrowserRouter>
+    <div className="w-full h-screen flex justify-center items-center">
+      <h1>Page is under maintenance</h1>
+    </div>
   );
 }
 
