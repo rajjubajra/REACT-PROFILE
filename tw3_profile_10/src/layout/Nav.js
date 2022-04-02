@@ -1,10 +1,28 @@
-import {useEffect} from 'react';
+import {useState, useEffect} from 'react';
 //import {useDispatch, useSelector} from 'react-redux';
 //import {navigationData} from '../redux/navigationSlice';
 import {Link} from 'react-router-dom';
 //import axios from 'axios';
 import {gsap} from 'gsap';
-import data from '../data/nav.json';
+
+
+const navdata = [
+  {
+    "id": 1,
+    "name": "Home",
+    "url": "/home"
+  },
+  {
+    "id": 2,
+    "name": "About",
+    "url": "/about"
+  },
+  {
+    "id": 3,
+    "name": "Exploer",
+    "url": "/explore"
+  }
+]
 
 
 function Nav() {
@@ -28,6 +46,11 @@ function Nav() {
 //     .catch(err => console.error(err))
 // },[dispatch])
 
+const [data, setData] = useState([]);
+
+useEffect(()=>{
+  setData(navdata);
+},[])
 
 /** ANIMATION */
 useEffect(() => {

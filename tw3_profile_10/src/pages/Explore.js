@@ -42,22 +42,16 @@ function Explore() {
 
   const [images, setImages] = useState([]);
   useEffect(()=>{
-      setImages(data);
+      let isMounted = true;
+      isMounted && setImages(data);
   },[])
   
 
   useEffect(() => {
     gsap.from('.fadeout' , {duration:2, opacity: '0', ease: 'power2', stagger: 1.0})
-  })
-  
+  },[])
 
 
-  function isEven(numbers) {
-    if (numbers % 2 === 0) {
-        return true;
-    }
-    return false;
-  }
   console.log(images);
 
   return (
@@ -67,10 +61,10 @@ function Explore() {
           {
             images.length > 0 &&
             images.map((item, index )=> {
-              return isEven(index)                 
-              ? <li className="fadeout">
+              return index % 2 === 0                 
+              ? <li key={index} className="fadeout">
                 <ExploreBoxOne image={item.url} alt={item.alt}  text={item.text} /></li>
-              : <li className="fadeout">
+              : <li key={index} className="fadeout">
                 <ExploreBoxTwo image={item.url} alt={item.alt} text={item.text} /></li>
             } ) 
           }

@@ -46,7 +46,6 @@ function ImageSlider() {
           setShow(show < images.length -1 ? show + 1 : 0)
       },10000)
 
-
       useEffect(()=>{
         images.length > 0 &&  
         gsap.from('.slide',{duration: 2, opacity: 0})
