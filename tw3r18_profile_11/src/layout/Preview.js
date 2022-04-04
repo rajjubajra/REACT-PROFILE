@@ -1,7 +1,7 @@
-import {useState} from 'react';
+import React, {useState} from 'react';
 import {Link} from 'react-router-dom';
 import logo from '../yw-logo-240x240.png';
-import {gsap} from 'gsap';
+import gsap from 'gsap';
 
 /**
  * THIS Component IS ONLY FOR WEBSITE PREVIEW BUTTON
@@ -37,7 +37,7 @@ function Preview() {
           </div>
           <Link 
           className="cursor-pointer border px-20 py-5 uppercase tracking-widest" 
-          to="/home" 
+          to="/" 
           onClick={()=> disapplerThePage()} >Preview</Link>
         </div>
       </div>

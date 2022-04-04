@@ -20,7 +20,7 @@ function BigNavContainer({mainNav, dispatch, actionSetPage}) {
                 hover:-translate-x-1
                 hover:text-red-700`} 
                 key={index}
-                onClick={() => dispatch(actionSetPage(true))}
+                onClick={() => dispatch(actionSetPage(false))}
                 >
                   <Link to={item.url}>{item.name}</Link>
               </li>
