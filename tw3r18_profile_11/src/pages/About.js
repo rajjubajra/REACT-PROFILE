@@ -1,6 +1,6 @@
 import React from 'react';
 import AboutLocal from './AboutLocal';
-import AboutRemote from './AboutRemote';
+//import AboutRemote from './AboutRemote';
 
 
 function About() {
@@ -8,7 +8,7 @@ function About() {
   return (
     window.location.origin === 'http://localhost:3000'
     ? <AboutLocal />
-    : <AboutRemote />
+    : <AboutLocal />
   
   )
 }
