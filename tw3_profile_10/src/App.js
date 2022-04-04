@@ -12,13 +12,12 @@ function App() {
     <h1>THIS PAGE IS UNDER MAITENANCE</h1>
     <BrowserRouter>
     <Layout>
-       <h1>THIS PAGE IS UNDER MAITENANCE 2</h1>
-        {/* <Routes>
+        <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/home" element={<Home />} />
+          {/* <Route path="/home" element={<Home />} />
           <Route path="/explore" element={<Explore />} />
-          <Route path="/about" element={<About />} />
-        </Routes> */}
+          <Route path="/about" element={<About />} /> */}
+        </Routes>
     </Layout>
     </BrowserRouter>
     </div>
