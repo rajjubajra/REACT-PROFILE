@@ -9,7 +9,7 @@ function Layout({children}) {
   const dispatch = useDispatch();
 
   useEffect(() => {
-    dispatch(actionMainMenu())
+    window.location.origin !== "http://localhost:3000" && dispatch(actionMainMenu())
   },[dispatch])
 
   return (
