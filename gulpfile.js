@@ -1,4 +1,4 @@
-const {src, dest, watch, series} = require('gulp');
+const { src, dest, watch, series } = require('gulp');
 
 /**
  * 
@@ -14,12 +14,12 @@ const {src, dest, watch, series} = require('gulp');
 
 
 
-function moveFiles(){
-  return src('./tw3r18_profile_11/build/**/*.*')
-  .pipe(dest('./tw3r18-profile-11'))
+function moveFiles() {
+  return src('./tw3r18_profile_10/build/**/*.*')
+    .pipe(dest('./tw3r18-profile-10'))
 }
 
-function watchTask(){
+function watchTask() {
   watch('./tw3r18_profile_11/build/**/*.*');
 }
 

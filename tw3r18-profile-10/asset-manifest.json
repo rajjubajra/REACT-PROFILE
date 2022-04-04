@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-profile/tw3-profile-10/static/css/main.83527f25.css",
-    "main.js": "/react-profile/tw3-profile-10/static/js/main.2475a571.js",
-    "static/js/787.1bcca8a7.chunk.js": "/react-profile/tw3-profile-10/static/js/787.1bcca8a7.chunk.js",
-    "static/media/landing-4.jpg": "/react-profile/tw3-profile-10/static/media/landing-4.d3d61824b85228e66cdb.jpg",
-    "static/media/landing-1.jpg": "/react-profile/tw3-profile-10/static/media/landing-1.cf91eea0b31305fe222d.jpg",
-    "static/media/landing-2.jpg": "/react-profile/tw3-profile-10/static/media/landing-2.9b243cc89ca5ee8ef3ff.jpg",
-    "static/media/landing-3.jpg": "/react-profile/tw3-profile-10/static/media/landing-3.7c5a7f8cb769496f4bee.jpg",
-    "index.html": "/react-profile/tw3-profile-10/index.html",
-    "main.83527f25.css.map": "/react-profile/tw3-profile-10/static/css/main.83527f25.css.map",
-    "main.2475a571.js.map": "/react-profile/tw3-profile-10/static/js/main.2475a571.js.map",
-    "787.1bcca8a7.chunk.js.map": "/react-profile/tw3-profile-10/static/js/787.1bcca8a7.chunk.js.map"
+    "main.css": "/react-profile/tw3r18-profile-10/static/css/main.83527f25.css",
+    "main.js": "/react-profile/tw3r18-profile-10/static/js/main.714c4879.js",
+    "static/js/787.1bcca8a7.chunk.js": "/react-profile/tw3r18-profile-10/static/js/787.1bcca8a7.chunk.js",
+    "static/media/landing-4.jpg": "/react-profile/tw3r18-profile-10/static/media/landing-4.d3d61824b85228e66cdb.jpg",
+    "static/media/landing-1.jpg": "/react-profile/tw3r18-profile-10/static/media/landing-1.cf91eea0b31305fe222d.jpg",
+    "static/media/landing-2.jpg": "/react-profile/tw3r18-profile-10/static/media/landing-2.9b243cc89ca5ee8ef3ff.jpg",
+    "static/media/landing-3.jpg": "/react-profile/tw3r18-profile-10/static/media/landing-3.7c5a7f8cb769496f4bee.jpg",
+    "index.html": "/react-profile/tw3r18-profile-10/index.html",
+    "main.83527f25.css.map": "/react-profile/tw3r18-profile-10/static/css/main.83527f25.css.map",
+    "main.714c4879.js.map": "/react-profile/tw3r18-profile-10/static/js/main.714c4879.js.map",
+    "787.1bcca8a7.chunk.js.map": "/react-profile/tw3r18-profile-10/static/js/787.1bcca8a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83527f25.css",
-    "static/js/main.2475a571.js"
+    "static/js/main.714c4879.js"
   ]
 }
