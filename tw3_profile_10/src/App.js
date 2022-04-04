@@ -8,7 +8,10 @@ import Explore from './pages/Explore';
 
 function App() {
   return (
-    <BrowserRouter>
+    <div className="w-full h-screen flex justify-center items-center">
+    <h1>THIS PAGE IS UNDER MAITENANCE</h1>
+    
+    {/* <BrowserRouter>
     <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
@@ -17,7 +20,8 @@ function App() {
           <Route path="/about" element={<About />} />
         </Routes>
     </Layout>
-    </BrowserRouter>
+    </BrowserRouter> */}
+    </div>
   );
 }
 
