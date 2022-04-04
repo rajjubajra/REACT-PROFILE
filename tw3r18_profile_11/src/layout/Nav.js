@@ -11,6 +11,7 @@ function Nav() {
 
   console.log(page);
   
+  
 
   return (
       <ul>

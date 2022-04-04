@@ -19,8 +19,6 @@ function IntroductionLocal() {
       setData(local_data[0].text)
   },[])
 
-
-
   return (
     <IntroductionContainer logo={logo} data={data} />
   )

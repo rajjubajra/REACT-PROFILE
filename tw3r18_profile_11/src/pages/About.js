@@ -9,7 +9,6 @@ function About() {
     window.location.origin === 'http://localhost:3000'
     ? <AboutLocal />
     : <AboutLocal />
-  
   )
 }
 

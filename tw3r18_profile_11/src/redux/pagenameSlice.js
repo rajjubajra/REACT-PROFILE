@@ -5,7 +5,7 @@ import {createSlice} from '@reduxjs/toolkit';
 export const pagenameSlice = createSlice({
   name: 'isHomepage',
   initialState:{
-    value: true,
+    value: false,
   },
   reducers:{
       actionSetPage: (state, action) => {
