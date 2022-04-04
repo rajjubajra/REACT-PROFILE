@@ -8,8 +8,6 @@ import Explore from './pages/Explore';
 
 function App() {
   return (
-    <div className="w-full h-screen flex justify-center items-center">
-    <h1>THIS PAGE IS UNDER MAITENANCE</h1>
     <BrowserRouter>
     <Layout>
         <Routes>
@@ -20,7 +18,6 @@ function App() {
         </Routes>
     </Layout>
     </BrowserRouter>
-    </div>
   );
 }
 
