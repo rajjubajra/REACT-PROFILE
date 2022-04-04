@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import React, {useEffect, useState, useRef} from 'react';
 import ExploreBoxOne from '../components/ExploreBoxOne';
 import ExploreBoxTwo from '../components/ExploreBoxTwo';
 import img_landing_1 from '../media/landing-1.jpg';
@@ -44,11 +44,13 @@ function Explore() {
   useEffect(()=>{
     setImages(data);
   },[])
+
+  const fadeRef = useRef();
   
 
   useEffect(() => {
-    gsap.from('.fadeout' , {duration:2, opacity: '0', ease: 'power2', stagger: 1.0})
-  },[])
+    gsap.from(".fade", {delay:0.1, duration:2, opacity: '0', ease: 'power2', stagger: 0.5})
+  })
 
 
   console.log(images);
@@ -60,11 +62,11 @@ function Explore() {
           {
             images.length > 0 &&
             images.map((item, index )=> {
-              return index % 2 === 0                 
-              ? <li key={index} className="fadeout">
-                <ExploreBoxOne  image={item.url} alt={item.alt}  text={item.text} /></li>
-              : <li key={index} className="fadeout">
-                <ExploreBoxTwo  image={item.url} alt={item.alt} text={item.text} /></li>
+              return <li key={index} className="fade"> {index % 2 === 0              
+              ? <ExploreBoxOne  image={item.url} alt={item.alt}  text={item.text} />
+              : <ExploreBoxTwo  image={item.url} alt={item.alt} text={item.text} />
+              }
+              </li>
             } ) 
           }
         </ul>  
