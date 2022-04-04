@@ -10,17 +10,17 @@ function App() {
   return (
     <div className="w-full h-screen flex justify-center items-center">
     <h1>THIS PAGE IS UNDER MAITENANCE</h1>
-    
-    {/* <BrowserRouter>
+    <BrowserRouter>
     <Layout>
-        <Routes>
+       <h1>THIS PAGE IS UNDER MAITENANCE 2</h1>
+        {/* <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/home" element={<Home />} />
           <Route path="/explore" element={<Explore />} />
           <Route path="/about" element={<About />} />
-        </Routes>
+        </Routes> */}
     </Layout>
-    </BrowserRouter> */}
+    </BrowserRouter>
     </div>
   );
 }
