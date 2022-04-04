@@ -1,16 +1,16 @@
-import { useEffect } from 'react';
+import React from 'react';
 import Header from './Header';
-import {actionMainMenu} from '../redux/mainMenuSlice';
-import {useDispatch} from 'react-redux';
+//import {actionMainMenu} from '../redux/mainMenuSlice';
+//import {useDispatch} from 'react-redux';
 
 
 function Layout({children}) {
 
-  const dispatch = useDispatch();
+  // const dispatch = useDispatch();
 
-  useEffect(() => {
-    window.location.origin !== "http://localhost:3000" && dispatch(actionMainMenu())
-  },[dispatch])
+  // useEffect(() => {
+  //   window.location.origin !== "http://localhost:3000" && dispatch(actionMainMenu())
+  // },[dispatch])
 
   return (
     <div className="relative min-h-screen">
