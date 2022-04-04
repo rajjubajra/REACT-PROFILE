@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.1fb9c0cc.css",
-    "main.js": "/static/js/main.1e45ea33.js",
-    "static/media/profile-01.jpg": "/static/media/profile-01.69fd044f94578167bb41.jpg",
-    "static/media/profile-03.jpg": "/static/media/profile-03.93c3a84f3395c236a956.jpg",
-    "static/media/profile-08.jpg": "/static/media/profile-08.67af5aa02c1e924b2a89.jpg",
-    "static/media/profile-06.jpg": "/static/media/profile-06.feacff8eba785db01191.jpg",
-    "static/media/profile-04.jpg": "/static/media/profile-04.38d27ee687626e9fad45.jpg",
-    "static/media/profile-05.jpg": "/static/media/profile-05.c67c27cd1123b67bbcea.jpg",
-    "static/media/profile-07.jpg": "/static/media/profile-07.2a8d8c26ff3237535156.jpg",
-    "static/media/profile-10.jpg": "/static/media/profile-10.d77bd1e0d04d76b54d8a.jpg",
-    "static/media/profile-09.jpg": "/static/media/profile-09.ec1c622f5219020190d2.jpg",
-    "static/media/profile-02.jpg": "/static/media/profile-02.11751273a9e640a23601.jpg",
-    "static/media/yw-logo-horizontal.png": "/static/media/yw-logo-horizontal.b0d2bf88a6907bb2437a.png",
-    "index.html": "/index.html",
-    "main.1fb9c0cc.css.map": "/static/css/main.1fb9c0cc.css.map",
-    "main.1e45ea33.js.map": "/static/js/main.1e45ea33.js.map"
+    "main.css": "/react-profile/tw3r18-profile-11/static/css/main.1fb9c0cc.css",
+    "main.js": "/react-profile/tw3r18-profile-11/static/js/main.797c537c.js",
+    "static/media/profile-01.jpg": "/react-profile/tw3r18-profile-11/static/media/profile-01.69fd044f94578167bb41.jpg",
+    "static/media/profile-03.jpg": "/react-profile/tw3r18-profile-11/static/media/profile-03.93c3a84f3395c236a956.jpg",
+    "static/media/profile-08.jpg": "/react-profile/tw3r18-profile-11/static/media/profile-08.67af5aa02c1e924b2a89.jpg",
+    "static/media/profile-06.jpg": "/react-profile/tw3r18-profile-11/static/media/profile-06.feacff8eba785db01191.jpg",
+    "static/media/profile-04.jpg": "/react-profile/tw3r18-profile-11/static/media/profile-04.38d27ee687626e9fad45.jpg",
+    "static/media/profile-05.jpg": "/react-profile/tw3r18-profile-11/static/media/profile-05.c67c27cd1123b67bbcea.jpg",
+    "static/media/profile-07.jpg": "/react-profile/tw3r18-profile-11/static/media/profile-07.2a8d8c26ff3237535156.jpg",
+    "static/media/profile-10.jpg": "/react-profile/tw3r18-profile-11/static/media/profile-10.d77bd1e0d04d76b54d8a.jpg",
+    "static/media/profile-09.jpg": "/react-profile/tw3r18-profile-11/static/media/profile-09.ec1c622f5219020190d2.jpg",
+    "static/media/profile-02.jpg": "/react-profile/tw3r18-profile-11/static/media/profile-02.11751273a9e640a23601.jpg",
+    "static/media/yw-logo-horizontal.png": "/react-profile/tw3r18-profile-11/static/media/yw-logo-horizontal.b0d2bf88a6907bb2437a.png",
+    "index.html": "/react-profile/tw3r18-profile-11/index.html",
+    "main.1fb9c0cc.css.map": "/react-profile/tw3r18-profile-11/static/css/main.1fb9c0cc.css.map",
+    "main.797c537c.js.map": "/react-profile/tw3r18-profile-11/static/js/main.797c537c.js.map"
   },
   "entrypoints": [
     "static/css/main.1fb9c0cc.css",
-    "static/js/main.1e45ea33.js"
+    "static/js/main.797c537c.js"
   ]
 }
