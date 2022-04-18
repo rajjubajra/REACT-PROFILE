@@ -14,7 +14,7 @@ function Layout({children}) {
   // },[dispatch])
 
   return (
-    <div className="relative min-h-screen">
+    <div className="relative min-h-screen bg-gray-800 text-gray-50">
       <div className="fixed">
         <div className="relative z-50 border-r">
           <Header />

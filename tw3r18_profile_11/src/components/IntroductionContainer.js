@@ -16,7 +16,7 @@ function IntroductionContainer({logo, data}) {
   return (
     <div className="flex justify-center">
       <div className="intro absolute md:bottom-20 bottom-10 left-5 md:w-96 w-56 ">
-          <div className="signature font-windSong mb-32 text-yellow-800/20 text-[10vw] opacity-0 md:flex hidden">an Artist</div> 
+          <div className="signature font-windSong mb-32 text-yellow-400 text-[10vw] opacity-0 md:flex hidden">an Artist</div> 
           
           <div className="intro font-thin tracking-widest my-4 pl-1">
             <div dangerouslySetInnerHTML={{__html: data }} />

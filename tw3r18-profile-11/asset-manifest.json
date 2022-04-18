@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-profile/tw3r18-profile-11/static/css/main.1fb9c0cc.css",
-    "main.js": "/react-profile/tw3r18-profile-11/static/js/main.797c537c.js",
+    "main.css": "/react-profile/tw3r18-profile-11/static/css/main.857cc272.css",
+    "main.js": "/react-profile/tw3r18-profile-11/static/js/main.65932370.js",
     "static/media/profile-01.jpg": "/react-profile/tw3r18-profile-11/static/media/profile-01.69fd044f94578167bb41.jpg",
     "static/media/profile-03.jpg": "/react-profile/tw3r18-profile-11/static/media/profile-03.93c3a84f3395c236a956.jpg",
     "static/media/profile-08.jpg": "/react-profile/tw3r18-profile-11/static/media/profile-08.67af5aa02c1e924b2a89.jpg",
@@ -14,11 +14,11 @@
     "static/media/profile-02.jpg": "/react-profile/tw3r18-profile-11/static/media/profile-02.11751273a9e640a23601.jpg",
     "static/media/yw-logo-horizontal.png": "/react-profile/tw3r18-profile-11/static/media/yw-logo-horizontal.b0d2bf88a6907bb2437a.png",
     "index.html": "/react-profile/tw3r18-profile-11/index.html",
-    "main.1fb9c0cc.css.map": "/react-profile/tw3r18-profile-11/static/css/main.1fb9c0cc.css.map",
-    "main.797c537c.js.map": "/react-profile/tw3r18-profile-11/static/js/main.797c537c.js.map"
+    "main.857cc272.css.map": "/react-profile/tw3r18-profile-11/static/css/main.857cc272.css.map",
+    "main.65932370.js.map": "/react-profile/tw3r18-profile-11/static/js/main.65932370.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fb9c0cc.css",
-    "static/js/main.797c537c.js"
+    "static/css/main.857cc272.css",
+    "static/js/main.65932370.js"
   ]
 }

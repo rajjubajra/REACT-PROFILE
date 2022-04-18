@@ -9,7 +9,7 @@ function Title({title}) {
         -translate-y-32
         md:translate-y-0
         md:-translate-x-8 
-        text-gray-900/20 font-bold">
+        text-gray-50 font-bold">
         {title}</h2>
       </div>       
     </div>
